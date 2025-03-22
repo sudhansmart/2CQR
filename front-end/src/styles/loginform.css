@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+.loginform{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    width: 30vw;
+    background-color: white;
+    /* border: black 1px solid; */
+    border-radius: 10px;
+    box-shadow: 2px 2px 20px 0px #0202026b;
+    font-family: 'Roboto', sans-serif;
+}
+
+.loginform h2{
+    font-weight: 700;
+}
+
+.submit-btn{
+    color: white;
+    background-color: #2c3e50;
+    border: none;
+    border-radius: 10px;
+    padding: 8px 20px;
+    cursor: pointer;
+}
+
+.submit-btn:hover{
+    background-color: #e77e4e;
+}

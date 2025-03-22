@@ -1,0 +1,27 @@
+
+
+.datascreen{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+   
+    width: 100vw;
+    background-color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+.datascreen h1{
+    font-weight: 700;
+    width: 100%;
+    padding: 2%;
+}
+
+.exit-btn{
+    color: white;
+    background-color: #e08506;
+    border: none;
+    border-radius: 10px;
+    padding: 8px 20px;
+    cursor: pointer;
+}

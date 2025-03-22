@@ -1,0 +1,16 @@
+
+
+.upload-excel{
+    font-family: 'Roboto', sans-serif;
+    width: 70vw;
+    text-align: end;
+    padding: 2%
+}
+.upload-btn{
+    color: white;
+    background-color: #2c3e50;
+    border: none;
+    border-radius: 10px;
+    padding: 8px 20px;
+    cursor: pointer;
+}
